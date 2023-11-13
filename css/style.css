@@ -519,7 +519,7 @@ hr {
 		margin: 5% 10% 0% -10%;
 	}
 	h3 {
-		font-size: 34px;
+		font-size: 45px;
 		color: rgb(255, 255, 255);
 		font-weight: bold;
 	}
@@ -596,7 +596,7 @@ hr {
 	}
 
 	.box .movie {
-		height: 501px;
+		height: 628px;
 		width: 315px;
 		float: left;
 		margin: 0% 1% 10% 0%;
@@ -609,10 +609,10 @@ hr {
 	}
 
 	.rating p {
-		font-size: 20px;
+		font-size: 35px;
 		color: #ffffff;
 		font-weight: bold;
-		margin: 310% 0% 0% -50%;
+		margin: 310% 0% 0% -80%;
 	}
 
 	#name {
@@ -623,7 +623,7 @@ hr {
 
 	.social span {
 		display: inline;
-		font-size: 20px;
+		font-size: 30px;
 		color: #ffffff;
 		line-height: 16px;
 		padding-right: 5px;
@@ -645,7 +645,7 @@ hr {
 	}
 
 	#navigation ul li a {
-		font-size: 30px;
+		font-size: 45px;
 		font-weight: bold;
 		color: rgb(255, 255, 255);
 		text-decoration: none;
@@ -655,4 +655,19 @@ hr {
 		display: inline;
 		margin: 10% 0% 0% 10%
 	}
+}
+.list{
+	margin: 0px 0px 0px 320px;
+	
+}
+.ibutton{
+	background-color: #000000;
+	width: 50px;
+	height: 50px;
+	margin-top: 60px;
+}
+.i1{
+	color: rgb(255, 255, 255);
+	margin: 0px;
+	text-decoration: none;
 }
