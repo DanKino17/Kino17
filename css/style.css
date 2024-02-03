@@ -24,6 +24,10 @@ a:hover {
 
 a img {
 	border: 0;
+	
+}
+img:hover {
+	box-shadow: 10px 10px 100px  #a00909; 
 }
 
 input,
