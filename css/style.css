@@ -482,6 +482,7 @@ hr {
 .search:hover {
 	border: 1px solid #000000;
 }
+
 .search:focus {
 	width: 900px;
 	cursor: text;
