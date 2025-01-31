@@ -11,6 +11,12 @@ hr {
 	line-height: normal;
 	white-space: nowrap;
 }
+#result{
+	color: #ffffff;
+	text-align: center;
+	margin: 10% 0% 0% 10%;
+	font-size: 100px;
+}
 @media (max-width:1000px) {
 	.search:focus {
 		width: 600px;
