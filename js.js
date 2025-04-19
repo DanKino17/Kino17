@@ -12,10 +12,10 @@ function search() {
             li[i].style.display = "";
         } else {
             li[i].style.display = "none";
-            document.getElementById("result").textContent = "Пока нету😞 "; 
            
         }
     }
+    
 }
 
 document.addEventListener('keyup', search);
